@@ -13,6 +13,6 @@ public class SubtractorTest {
     }
     @Test
     public void testSubtract() throws Exception {
-        assertEquals(obj.subtract(5,5),0);
+        assertEquals(obj.subtract(10,10),0);
     }
 }
