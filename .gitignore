@@ -1,10 +1,1 @@
 .DS_Store
-*.iml
-*.ipr
-*.iws
-out/
-*.class
-*.ear
-.idea/
-.gradle/
-build/
